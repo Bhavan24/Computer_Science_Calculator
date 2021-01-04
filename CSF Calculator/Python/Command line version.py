@@ -540,7 +540,7 @@ def selection():
 	while True:		
 	    print("""
 	+-------------------------------+
-	|       CSF CALCULATOR 			|
+	|       CSF CALCULATOR 		|
 	+-------------------------------+
 	| 1. Number Convertion          |
 	| 2. Highest n bit Value        |
