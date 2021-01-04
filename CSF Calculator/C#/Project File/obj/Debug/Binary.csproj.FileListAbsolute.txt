@@ -1,0 +1,10 @@
+C:\Users\bhava\source\repos\Binary\bin\Debug\Binary.exe.config
+C:\Users\bhava\source\repos\Binary\bin\Debug\Binary.exe
+C:\Users\bhava\source\repos\Binary\bin\Debug\Binary.pdb
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.csprojAssemblyReference.cache
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.Form1.resources
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.Properties.Resources.resources
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.csproj.GenerateResource.cache
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.csproj.CoreCompileInputs.cache
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.exe
+C:\Users\bhava\source\repos\Binary\obj\Debug\Binary.pdb
